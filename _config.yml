@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Tokatli]
-  first_name: [O.]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
