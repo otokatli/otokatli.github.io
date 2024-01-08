@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>United Kingdom Atomic Energy Authorityr</p>
+    <p>United Kingdom Atomic Energy Authority</p>
     <p>Culham Campus</p>
     <p>Abingdon OX14 3DB, UK</p>
 
