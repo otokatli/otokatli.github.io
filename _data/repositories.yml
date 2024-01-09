@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - otokatli
+  - UoR-Haptics-Lab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - otokatli/libKinovaGen3
+  - otokatli/KinovaGen3Analysis
+  - otokatli/pyKinovaGen3
+  - otokatli/DiceGame
+  - ukaea/Glovebox-Simulator
+  - ukaea/Glovebox-Simulator-Docker
