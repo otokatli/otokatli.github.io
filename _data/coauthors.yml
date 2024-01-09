@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Patoglu":
+  - firstname: ["Volkan", "V."]
+    url: http://myweb.sabanciuniv.edu/vpatoglu/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Harwin":
+  - firstname: ["William", "W."]
+    url: https://www.reading.ac.uk/biomedical-engineering/staff/william-harwin
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Lopez":
+  - firstname: ["Erwin", "E."]
+    url: https://www.erwinlopez.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Lopez-Pulgarin":
+  - firstname: ["Erwin", "E."]
+    url: https://www.erwinlopez.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Hwang": 
+  - firstname: ["Faustina", "F."]
+    url: https://www.reading.ac.uk/biomedical-engineering/staff/faustina-hwang
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Basdogan":
+  - firstname: ["Cagatay", "C."]
+    url: http://home.ku.edu.tr/~cbasdogan/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Aydin":
+  - firstname: ["Yusuf", "Y."]
+    url: https://www.yusuf-aydin.com/
